@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af3f6c2d-4665-4926-8e35-3af6364223a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cdQ9dQgJZuYqhUacIH9HoyMIKV" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.javahippie.camunda.nativeimage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/native-image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.javahippie.camunda.nativeimage.Main" />
+      <module name="camunda-native-image-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.javahippie.camunda.nativeimage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af3f6c2d-4665-4926-8e35-3af6364223a1" name="Default Changelist" comment="" />
+      <created>1590855839224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590855839224</updated>
+      <workItem from="1590855840668" duration="6070000" />
+      <workItem from="1590922242463" duration="15773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1590856728179">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1590856728179" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1591015530176">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591015530176" />
+    <state width="1638" height="278" key="GridCell.Tab.0.bottom" timestamp="1591018071461">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591018071461" />
+    <state width="1638" height="278" key="GridCell.Tab.0.center" timestamp="1591018071460">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591018071460" />
+    <state width="1638" height="278" key="GridCell.Tab.0.left" timestamp="1591018071459">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591018071459" />
+    <state width="1638" height="278" key="GridCell.Tab.0.right" timestamp="1591018071460">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591018071460" />
+    <state x="99" y="123" width="1480" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591015530176">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="99" y="123" width="1480" height="827" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591015530176" />
+    <state x="498" y="292" width="963" height="488" key="find.popup" timestamp="1591016941582">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="498" y="292" width="963" height="488" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1591016941582" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1591017912488">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1591017912488" />
+  </component>
+</project>
